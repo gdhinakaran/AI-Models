@@ -1,6 +1,6 @@
 # AI Models – Learning & Experiments
 
-This repository contains learning projects, experiments, and prototypes created as part of my AI training journey (including *Build for Andrew*).
+This repository contains learning projects, experiments, and prototypes created as part of my AI training journey.
 
 The goal of this repo is to:
 - Learn by building small, concrete projects
