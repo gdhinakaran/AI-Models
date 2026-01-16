@@ -15,10 +15,10 @@ Each folder represents a self-contained experiment or mini-project.
 
 Example:
 AI-Models/
-├── 01-birthday-card-writer/
-│   ├── README.md
-│   └── birthday-card-writer.html
-├── 02-…
+01-birthday-card-writer/
+├── README.md
+└── birthday-card-writer.html
+02-…
 ---
 
 ## 🧠 What I’m focusing on
